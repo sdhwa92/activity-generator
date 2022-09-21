@@ -31,7 +31,7 @@ function App() {
           onClick={() => dispatch(getData())}
           className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full"
         >
-          Button
+          Random Activity
         </button>
       </section>
 
